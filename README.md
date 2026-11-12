@@ -2,7 +2,7 @@
 Recoil. The new-gen platformer where you use a weapon to propel yourself
 
 # Instructions
-[Download here](blob:https://github.com/1b7b0693-641c-4873-ba12-71622515f83e)
+[Download here](https://github.com/1b7b0693-641c-4873-ba12-71622515f83e)
 
 You have two files, Recoil.exe and Recoil.pck
 
